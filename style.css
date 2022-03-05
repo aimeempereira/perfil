@@ -73,7 +73,7 @@ p {
   font-size: 15px;
   padding: 0 15px;
 }
-
+/* a bolinha branca do botão está levemente ovalada, mas não sei identificar o porquê */
 .btn-list {
   display: flex;
   justify-content: center;
